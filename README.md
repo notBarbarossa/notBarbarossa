@@ -1,6 +1,8 @@
 
 👨‍🎓 Hello! I'm a Computer Science student with a keen interest in data analysis, data science, and finance.
 
+💻 I have participated in start-ups like Tbilisi AI, which gave me good experience in Data analysis, AI and web scraping. also, Was a member of EPAM Data Engineering course which improved my SQL skills.
+
 ## Skills & Technologies
 ###
 

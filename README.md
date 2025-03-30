@@ -1,6 +1,7 @@
-## Hi there 👋
 
+👨‍🎓 Hello! I'm a Computer Science student with a keen interest in data analysis, data science, and finance.
 
+## Skills & Technologies
 ###
 
 <div align="left">
